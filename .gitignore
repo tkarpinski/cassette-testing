@@ -1,0 +1,66 @@
+#DyKnow Specific files
+MonitorURLDependencies/
+combined_*.css
+combined_*.js
+dyknow_*.js
+/Styles/signon*.css
+Styles/signon*.css
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+*.[Oo]bj
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.[Cc]ache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+Ankh.NoLoad
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Office Temp Files
+~$*
+
+#NuGet
+packages/
+
+#InstallShield Script FIles
+[Ss]cript [Ff]iles/
+x64_Configuration/
+x86_Configuration/
+String1033.txt
+
+#log.txt file for git mirroring
+git-tfs-log.txt
